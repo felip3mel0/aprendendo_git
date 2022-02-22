@@ -1,0 +1,13 @@
+Git é fundamental para melhorar a produtividade na otimazação de projeto
+
+Principal comandos git
+
+git config
+git init
+git clone
+Git add
+Git commit
+Git push
+Git status
+Git branch
+Git checkout
